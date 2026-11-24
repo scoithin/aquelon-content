@@ -2,6 +2,19 @@
   "items": [
     {
       "date": "2026-11-24",
+      "id": "EP02",
+      "slug": "one-cooler-forty-workers",
+      "title": "One cooler, forty workers?",
+      "summary": "A summer site with one small cooler means a long, hot queue. The Emsas EM 200 holds 200 litres in a 304 stainless steel inner tank, insulated with polyurethane, and runs from mains or bottled water.",
+      "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3AsdqcCRWj6XN6oyvbkbK2GiylV/114a6d24-7ca3-42d0-b31c-65c0d1528463.mp4",
+      "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3AsdqcCRWj6XN6oyvbkbK2GiylV/f018ce6d-e9f4-4ad6-bbf3-297514a6f76f.jpg",
+      "duration": 29,
+      "product_id": "emsas-em-200",
+      "product_name": "Emsas EM 200",
+      "transcript": "Forty workers. Forty degrees. One little office cooler. That queue isn't going anywhere. Here's the fix. The Emsas EM 200. Two hundred litres in a 304 stainless steel tank, polyurethane insulation, and it runs from mains or bottled water. Got a site like this? Send us your scope at aquelon.com."
+    },
+    {
+      "date": "2026-11-24",
       "id": "EP01",
       "slug": "too-short-for-the-fountain",
       "title": "Too short for the fountain?",
