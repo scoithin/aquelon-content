@@ -2,6 +2,19 @@
   "items": [
     {
       "date": "2026-11-24",
+      "id": "EP03",
+      "slug": "dusty-eye-wash",
+      "title": "Is your eye wash full of dust?",
+      "summary": "An open eye wash on a dusty site collects grit in its nozzles. The Hughes STD-45G closed bowl eye wash keeps its diffusers under a lid and starts when the lid is pulled down.",
+      "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3AsdqcCRWj6XN6oyvbkbK2GiylV/cb74258f-b6bb-4eb0-b6ca-eaa46a9c15c5.mp4",
+      "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3AsdqcCRWj6XN6oyvbkbK2GiylV/d974499f-7e7c-4a16-8edb-3cd7380f7fb9.jpg",
+      "duration": 31,
+      "product_id": "hughes-std-45g",
+      "product_name": "Hughes STD-45G",
+      "transcript": "This is an eye wash. Well, it was. Now it's a sandpit. On a dusty site, open nozzles fill with grit. Here's the fix. The Hughes STD-45G. A lid keeps dust off the diffusers, and pulling it down starts the flow. Twelve litres a minute, in chemical and UV resistant ASA. Got a site like this? Send us your scope at aquelon.com."
+    },
+    {
+      "date": "2026-11-24",
       "id": "EP02",
       "slug": "one-cooler-forty-workers",
       "title": "One cooler, forty workers?",
