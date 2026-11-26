@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "date": "2026-11-26",
+      "id": "EP04",
+      "slug": "dog-at-the-fountain",
+      "title": "Whose turn is it at the fountain?",
+      "summary": "In a park, dogs and people end up sharing one fountain. The Murdock M-OBF4-PF pairs a sensor bottle filler with a pet fountain at ground level.",
+      "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3AsdqcCRWj6XN6oyvbkbK2GiylV/403bdc61-8a39-4fc2-a952-430803679557.mp4",
+      "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3AsdqcCRWj6XN6oyvbkbK2GiylV/0f279e0d-26af-4e75-ac9a-2b1cc48a62db.jpg",
+      "duration": 28,
+      "product_id": "murdock-m-obf4-pf",
+      "product_name": "Murdock M-OBF4-PF",
+      "transcript": "You've finished your run. You're desperate for a drink. And someone got there first. Here's the fix. The Murdock M-OBF4-PF. A sensor bottle filler up top, a pet fountain down low, in durable stainless steel. Laminar flow means no splash. Got a park like this? Send us your scope at aquelon.com."
+    },
+    {
       "date": "2026-11-24",
       "id": "EP03",
       "slug": "dusty-eye-wash",
